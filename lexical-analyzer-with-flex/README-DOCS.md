@@ -1,6 +1,6 @@
 ### Resumo do vídeo  
 O vídeo mostra como criar um **analisador léxico** usando o gerador **GNU Flex** (sintaxe semelhante ao lex), explicando a estrutura de um arquivo `.l`, como escrever expressões regulares para reconhecer tokens, associar ações em C às regras e compilar o analisador para testar com entradas. O autor faz um exemplo prático baseado numa gramática vista em aula e demonstra a execução do analisador gerado.   [youtube.com](https://www.youtube.com/watch?v=LIShZgAF3_M)
-
+https://www.youtube.com/watch?v=LIShZgAF3_M - fornte
 ---
 
 ### Passo a passo prático para construir o analisador léxico com Flex
